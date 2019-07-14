@@ -1,0 +1,10 @@
+plane:
+top_stop=50
+y=70
+x=350
+top_stop=70
+w=70
+h=60
+vx=10
+vy=0
+tmp_vy=5
