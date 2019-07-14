@@ -17,7 +17,7 @@
 ![alt tag](https://i.imgur.com/fRq5HS8.png?3)
 
 ## Reference
-* Graphics mode講義
-* oop講義
+* Graphics mode
+* C language
 * http://msdn.microsoft.com/en-us/library/windows/desktop/ms646293(v=vs.85).aspx
 * http://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx
